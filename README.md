@@ -2,6 +2,9 @@
 
 This repo serves everything within it using a python simple http server.
 
+Content is deployed using [Dokku](https://github.com/dokku/dokku) to
+https://phish.ssh.bz.
+
 Deploy:
 
 ```bash
